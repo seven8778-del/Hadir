@@ -1,0 +1,6 @@
+{
+  "name": "e-Hadir - Sistem Kehadiran",
+  "description": "Sistem pengesahan kehadiran mesyuarat dan aktiviti berasaskan imbasan Kod QR, semakan No. Gaji dan pengesahan swafoto (selfie) langsung.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
